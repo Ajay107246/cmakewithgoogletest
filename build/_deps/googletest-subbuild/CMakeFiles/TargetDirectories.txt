@@ -1,0 +1,3 @@
+G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

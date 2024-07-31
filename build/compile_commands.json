@@ -1,0 +1,128 @@
+[
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/my_tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/my_tests.dir/dummy.cpp.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/dummy.cpp",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/dummy.cpp",
+  "output": "CMakeFiles/my_tests.dir/dummy.cpp.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/my_tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/my_tests.dir/hello_test.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/hello_test.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/hello_test.cc",
+  "output": "CMakeFiles/my_tests.dir/hello_test.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/my_tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/my_tests.dir/dummy_tests.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/dummy_tests.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/dummy_tests.cc",
+  "output": "CMakeFiles/my_tests.dir/dummy_tests.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googlemock",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googlemock",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample1_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample1_unittest.dir/samples/sample1_unittest.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample1_unittest.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample1_unittest.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample1_unittest.dir/samples/sample1_unittest.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample1_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample1_unittest.dir/samples/sample1.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample1.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample1.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample1_unittest.dir/samples/sample1.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample2_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample2_unittest.dir/samples/sample2_unittest.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample2_unittest.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample2_unittest.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample2_unittest.dir/samples/sample2_unittest.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample2_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample2_unittest.dir/samples/sample2.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample2.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample2.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample2_unittest.dir/samples/sample2.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample3_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample3_unittest.dir/samples/sample3_unittest.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample3_unittest.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample3_unittest.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample3_unittest.dir/samples/sample3_unittest.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample4_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample4_unittest.dir/samples/sample4_unittest.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample4_unittest.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample4_unittest.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample4_unittest.dir/samples/sample4_unittest.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample4_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample4_unittest.dir/samples/sample4.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample4.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample4.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample4_unittest.dir/samples/sample4.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample5_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample5_unittest.dir/samples/sample5_unittest.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample5_unittest.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample5_unittest.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample5_unittest.dir/samples/sample5_unittest.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample5_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample5_unittest.dir/samples/sample1.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample1.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample1.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample5_unittest.dir/samples/sample1.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample6_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample6_unittest.dir/samples/sample6_unittest.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample6_unittest.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample6_unittest.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample6_unittest.dir/samples/sample6_unittest.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample7_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample7_unittest.dir/samples/sample7_unittest.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample7_unittest.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample7_unittest.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample7_unittest.dir/samples/sample7_unittest.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample8_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample8_unittest.dir/samples/sample8_unittest.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample8_unittest.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample8_unittest.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample8_unittest.dir/samples/sample8_unittest.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample9_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample9_unittest.dir/samples/sample9_unittest.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample9_unittest.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample9_unittest.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample9_unittest.dir/samples/sample9_unittest.cc.obj"
+},
+{
+  "directory": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-build/googletest",
+  "command": "D:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/sample10_unittest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles/sample10_unittest.dir/samples/sample10_unittest.cc.obj -c G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample10_unittest.cc",
+  "file": "G:/CPP/2024/VSCode/cmakewithgoogletest/build/_deps/googletest-src/googletest/samples/sample10_unittest.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/sample10_unittest.dir/samples/sample10_unittest.cc.obj"
+}
+]

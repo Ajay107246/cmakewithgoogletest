@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-make"
+	BuildStamp="20240731-1235-Experimental"
+	Name="DESKTOP-8U91L3N"
+	Generator="ctest-3.30.1"
+	CompilerName="D:/msys64/ucrt64/bin/c++.exe"
+	CompilerVersion="13.2.0"
+	OSName="Windows"
+	Hostname="DESKTOP-8U91L3N"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="13"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="12455"
+	TotalPhysicalMemory="8103"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2194"
+	>
+	<Testing>
+		<StartDateTime>Jul 31 23:35 W. Europe Daylight Time</StartDateTime>
+		<StartTestTime>1722461756</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 31 23:35 W. Europe Daylight Time</EndDateTime>
+		<EndTestTime>1722461756</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
